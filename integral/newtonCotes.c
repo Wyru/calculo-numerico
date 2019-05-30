@@ -11,8 +11,6 @@ long double E = 2.718281828459;
 
 long double minLimit, maxLimit, height, numberOfDivisions;
 
-long double fxTable = {0};
-
 void setup()
 {
     minLimit = 0;
